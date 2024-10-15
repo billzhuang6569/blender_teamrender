@@ -1,0 +1,8 @@
+{
+    "client_id": "bill",
+    "USER_BLENDER_PATH": "",
+    "SERVER_IP": "154.40.35.34",
+    "SERVER_PORT": 5801,
+    "UPLOAD_FOLDER": "/usr/teamrender/upload",
+    "ROOMS_FOLDER": "/usr/teamrender/rooms"
+}

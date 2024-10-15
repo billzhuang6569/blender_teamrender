@@ -1,0 +1,10 @@
+Flask
+requests
+python-dotenv
+Werkzeug
+pyOpenSSL
+aiohttp
+tqdm
+paramiko
+gradio
+colorama
